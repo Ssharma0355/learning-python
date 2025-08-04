@@ -24,4 +24,27 @@ print(myString)
 my2ndString = 'Sharma'
 print(my2ndString)
 
+# The difference between the two is that using double quotes makes it easy to include apostrophes
+#  (whereas these would terminate the string if using single quotes)
+
+difference = "Sachin's macbook is easy to print"
+print(difference)
+
+
+# There are additional variations on defining strings that make it easier to include things such as carriage returns,
+#  backslashes and Unicode characters. 
+One = 1
+Two = 2
+sum = One + Two
+print(sum)
+
+Sachin = "Sachin"
+Sharma = "Sharma"
+Concat = Sachin + " " + Sharma
+print(Concat)
+
+# Assignments can be done on more than one variable "simultaneously" on the same line like this
+
+(sachin, sharma) = ("Sachin", "Sharma")
+print(sachin,sharma)
 
