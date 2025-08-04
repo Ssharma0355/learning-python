@@ -19,3 +19,11 @@ print(helloWorld)
 multipylingString = "Sachin" * 5
 print(multipylingString)
 
+# Lists can be joined with the addition operators:
+
+list1 = [1,2,3,4,5]
+list2 = ["Sachin","Sharma"]
+
+print(list1+list2)
+
+
