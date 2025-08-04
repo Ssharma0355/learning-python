@@ -15,3 +15,13 @@ print(myVar)
 # to make int into float 
 myint = float(myint)
 print(myint)
+
+# Strings are defined either with a single quote or a double quotes.
+
+myString = "Sachin"
+print(myString)
+
+my2ndString = 'Sharma'
+print(my2ndString)
+
+
