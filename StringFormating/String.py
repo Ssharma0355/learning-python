@@ -27,3 +27,7 @@ data = ("John", "Doe", 53.44)
 format_string = "Hello %s %s. Your current balance is $%s."
 
 print(format_string % data)
+
+myData = ("Sachin", "Sharma", 24)
+formatString = "Hello %s %s. Your age is %s."
+print(formatString % myData)
