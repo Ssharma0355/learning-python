@@ -1,0 +1,5 @@
+Loops
+There are two types of loops in Python, for and while.
+
+The "for" loop
+For loops iterate over a given sequence. Here is an example:
