@@ -31,3 +31,8 @@ print(format_string % data)
 myData = ("Sachin", "Sharma", 24)
 formatString = "Hello %s %s. Your age is %s."
 print(formatString % myData)
+
+aString = "Sachin Sharma"
+print(aString.index("h"))
+
+print(aString[2:7])
