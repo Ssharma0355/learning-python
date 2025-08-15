@@ -24,3 +24,6 @@ print(user_input)
 
 user_input1 = input("Enter your name :")
 print(user_input1)
+
+Learn_pyrhon = "Learnign python is not easy"
+print(Learn_pyrhon)
