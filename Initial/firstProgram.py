@@ -32,3 +32,8 @@ c = 23
 d = int("4")
 print(c+d)
 
+name = input("Your name please")
+print(name)
+# always be string any int float anything it takes as string
+age = int(input("Enter your age : " ))
+print(type(age), age)
