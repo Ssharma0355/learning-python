@@ -50,3 +50,13 @@ print(capsName.capitalize())
 
 print(capsName.replace("C","O"))
 # Sachin -> saOhin
+findWord = "I am a Hero"
+print(findWord.find("a"))
+# o/p-> 2
+
+
+# WAP to find the count od $ in a string 
+sampleSstring = "Sachin$ dsdmsdn$ $fdfd$ fdfdf$"
+print(sampleSstring.count("$"))
+
+# o/p->5
