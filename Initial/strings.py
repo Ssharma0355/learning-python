@@ -37,3 +37,16 @@ print(NormalString[:])
 
 # prints -> achi
 
+# -ve slicing 
+
+negStr = "Sachin"
+#    -5,-4,-3,-2,-1
+print(negStr[-3:-1])
+# o/p - > hi
+print(negStr.endswith("in"))
+# o/p-> True 
+capsName = "saChin"
+print(capsName.capitalize())
+
+print(capsName.replace("C","O"))
+# Sachin -> saOhin
