@@ -17,3 +17,5 @@ strName = "Sachin"
 strSurname = "Sharma"
 name = strName + strSurname
 print(name)
+# show length of an string variable 
+print(len(name))
