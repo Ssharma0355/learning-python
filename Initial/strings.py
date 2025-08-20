@@ -19,3 +19,21 @@ name = strName + strSurname
 print(name)
 # show length of an string variable 
 print(len(name))
+
+# indexing 
+nameForIndex = "Sachin"
+print(nameForIndex[2])
+# shows c 
+
+# Sliceing 
+# accessing parts of string 
+
+NormalString = "Machince Learning"
+print(NormalString[1:5])
+print(NormalString[1:len(NormalString)])
+print(NormalString[:len(NormalString)])
+print(NormalString[:])
+
+
+# prints -> achi
+
