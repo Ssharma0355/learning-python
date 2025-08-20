@@ -9,3 +9,13 @@ print(str1,str2,str3)
 
 spaceSeq = "My name is Sachin's \nand i am a python developer \tmy domain is SDE"
 print(spaceSeq)
+
+
+# Concatination of String 
+
+strName = "Sachin"
+strSurname = "Sharma"
+name = strName + strSurname
+print(name)
+# show length of an string variable 
+print(len(name))
