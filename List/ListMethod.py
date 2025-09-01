@@ -33,3 +33,7 @@ list3 = [1,2,4,4,5]
 list3.insert(1,4)
 print(list3)
 print(len(list3))
+
+# remove method list name and index .pop and . remove
+list3.remove(2)
+print(list3)
