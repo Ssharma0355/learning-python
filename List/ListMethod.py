@@ -26,3 +26,10 @@ print(list)
 list1 = [1,2,3,54,5]
 list1.reverse()
 print(list1)
+
+# inset in the index 
+
+list3 = [1,2,4,4,5]
+list3.insert(1,4)
+print(list3)
+print(len(list3))
