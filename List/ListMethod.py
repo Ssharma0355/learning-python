@@ -22,3 +22,7 @@ list = ["Banana", "Mango", "Apple", "Sabjii"]
 list.sort()
 print(list)
 # o/p -> ['Apple', 'Banana', 'Mango', 'Sabjii']
+
+list1 = [1,2,3,54,5]
+list1.reverse()
+print(list1)
